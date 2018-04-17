@@ -1,0 +1,55 @@
+{
+    "Units": [
+        {
+            "ID": "Unit1",
+            "Name": "Test1",
+            "PrefabName": "Tank1Simple",
+            "AttackValue": "1",
+            "RangeValue" : "1",
+            "DefenseValue": "1",
+            "MovementValue": "1",
+            "SpawnCost": "10",
+            "Description": "Desc1",
+            "UnitType": "Land"
+        },
+        {
+            "ID": "Unit2",
+            "Name": "Test2",
+            "PrefabName": "Boat1Simple",
+            "AttackValue": "2",
+            "RangeValue" : "1",
+            "DefenseValue": "1",
+            "MovementValue": "1",
+            "SpawnCost": "15",
+            "Description": "Desc1",
+            "UnitType": "Sea"
+        },
+        {
+            "ID": "Unit3",
+            "Name": "Test3",
+            "PrefabName": "Plane1Simple",
+            "AttackValue": "1",
+            "RangeValue" : "1",
+            "DefenseValue": "2",
+            "MovementValue": "1",
+            "SpawnCost": "12",
+            "Description": "Desc1",
+            "UnitType": "Air"
+        }
+    ],
+    "Banks":
+    [
+        {
+            "ID": "Bank1",
+            "Name": "Bank1",
+            "PrefabName": "Bank1",
+            "Description": "Basic Bank",
+            "GoldPerTurn": "5",
+            "UpgradeLimit": "5",
+            "UpgradeMultiplier": "2"
+        }
+    ]
+
+    
+
+}
