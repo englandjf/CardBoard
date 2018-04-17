@@ -40,9 +40,9 @@
     "Banks":
     [
         {
-            "ID": "Bank1",
-            "Name": "Bank1",
-            "PrefabName": "Bank1",
+            "ID": "Bank1Level1",
+            "Name": "Bank",
+            "PrefabName": "BankLevel1",
             "Description": "Basic Bank",
             "GoldPerTurn": "5",
             "UpgradeLimit": "5",
